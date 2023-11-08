@@ -1,3 +1,5 @@
+package taller.pkg4;
+
 import java.util.Scanner;
 public class GastoHijos_2 {
     public static void main(String[] args) {
